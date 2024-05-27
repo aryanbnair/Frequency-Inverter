@@ -2038,12 +2038,6 @@
 		(uuid "73e472e7-d168-4b11-9be8-74a7de1fe48c")
 	)
 	(junction
-		(at 71.755 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7a1632b5-8251-48d7-ace9-e600b03448b6")
-	)
-	(junction
 		(at 135.89 50.165)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2165,7 +2159,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 63.5) (xy 71.755 63.5)
+			(xy 55.88 63.5) (xy 88.9 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2235,7 +2229,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 91.44) (xy 55.88 104.14)
+			(xy 55.88 83.82) (xy 55.88 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2252,16 +2246,6 @@
 			(type default)
 		)
 		(uuid "92a14cd8-8c44-4d1d-8e73-c92dcdf2df31")
-	)
-	(wire
-		(pts
-			(xy 71.755 64.135) (xy 71.755 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93f5580d-1a59-440b-a63b-b8da7443eb1f")
 	)
 	(wire
 		(pts
@@ -2332,16 +2316,6 @@
 			(type default)
 		)
 		(uuid "cd2a7746-0473-4f8e-b309-6d7851ba5b79")
-	)
-	(wire
-		(pts
-			(xy 71.755 63.5) (xy 55.88 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dab03576-4dd1-4f6f-b136-1521c706e79e")
 	)
 	(wire
 		(pts
@@ -2899,7 +2873,7 @@
 		(dnp no)
 		(uuid "775b57fb-15dd-430e-bb90-038b2353bf3e")
 		(property "Reference" "C72"
-			(at 62.484 81.788 90)
+			(at 52.578 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2908,7 +2882,7 @@
 			)
 		)
 		(property "Value" "1uF 25V 0603"
-			(at 70.612 74.93 90)
+			(at 53.594 75.946 90)
 			(effects
 				(font
 					(size 1.27 1.27)

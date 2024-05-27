@@ -2514,7 +2514,7 @@
 	)
 	(symbol
 		(lib_id "AD8615AUJZ:AD8615AUJZ")
-		(at 133.35 80.645 0)
+		(at 190.5 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2522,7 +2522,7 @@
 		(dnp no)
 		(uuid "bd373658-5364-4a5a-acad-d9c8ee31e6d2")
 		(property "Reference" "OP1"
-			(at 136.0932 94.9198 0)
+			(at 193.2432 66.3448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2530,7 +2530,7 @@
 			)
 		)
 		(property "Value" "AD8615AUJZ"
-			(at 140.208 101.9302 0)
+			(at 197.358 73.3552 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2538,7 +2538,7 @@
 			)
 		)
 		(property "Footprint" "AD8615AUJZ:SOT95P280X100-5N"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2548,7 +2548,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2557,7 +2557,7 @@
 			)
 		)
 		(property "Description" "\nPrecision 20 MHz CMOS Single RRIO Operational Amplifier\n"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2566,7 +2566,7 @@
 			)
 		)
 		(property "MF" "Analog Devices"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2576,7 +2576,7 @@
 			)
 		)
 		(property "PACKAGE" "SOT-23-5"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2586,7 +2586,7 @@
 			)
 		)
 		(property "MPN" "AD8615AUJZ"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2596,7 +2596,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2606,7 +2606,7 @@
 			)
 		)
 		(property "Package" "TSOT-5 Analog Devices"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2616,7 +2616,7 @@
 			)
 		)
 		(property "OC_FARNELL" "9079408"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2626,7 +2626,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AD8615AUJZ-REEL7/Analog+Devices/view-part/?ref=snap"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2636,7 +2636,7 @@
 			)
 		)
 		(property "MP" "AD8615AUJZ-REEL7"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2646,7 +2646,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45535&manufacturer=Analog Devices&part_name=AD8615AUJZ-REEL7&search_term=ad8615"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2656,7 +2656,7 @@
 			)
 		)
 		(property "SUPPLIER" "Analog Devices"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2666,7 +2666,7 @@
 			)
 		)
 		(property "OC_NEWARK" "31M4569"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2676,7 +2676,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2686,7 +2686,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/AD8615AUJZ-REEL7/Analog+Devices/view-part/?ref=eda"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2696,7 +2696,7 @@
 			)
 		)
 		(property "Description_1" "\nPrecision 20 MHz CMOS Single RRIO Operational Amplifier\n"
-			(at 133.35 80.645 0)
+			(at 190.5 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3142,10 +3142,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f17cf6f5-cf9b-4608-829a-e53818bfdc33")
 		(property "Reference" "R45"
-			(at 142.24 74.93 0)
+			(at 136.652 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
