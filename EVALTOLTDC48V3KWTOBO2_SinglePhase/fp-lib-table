@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "InfineonBoard-Library")(type "KiCad")(uri "/home/aryan-nair/Desktop/Praxis/CAD Files/InfineonBoard-Library")(options "")(descr ""))
+  (lib (name "InfineonBoard-Library")(type "KiCad")(uri "/home/aryan-nair/Desktop/Praxis/CAD Files/InfineonBoard-Library")(options "")(descr "")(disabled))
+  (lib (name "footprint_symbol")(type "KiCad")(uri "${KIPRJMOD}/footprint_symbol")(options "")(descr ""))
+  (lib (name "just-footprints")(type "KiCad")(uri "/home/aryan-nair/Documents/GitHub/Frequency-Inverter/Symbols and Footprints/InfineonBoard-Library/just-footprints")(options "")(descr ""))
 )

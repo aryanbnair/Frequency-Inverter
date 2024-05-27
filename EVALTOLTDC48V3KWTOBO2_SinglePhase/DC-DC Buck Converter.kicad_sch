@@ -9926,7 +9926,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X145N"
+		(property "Footprint" "just-footprints:CAPC2012X145N"
 			(at 350.19 66.04 0)
 			(effects
 				(font
@@ -10112,7 +10112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC220145_145N_KEM"
+		(property "Footprint" "just-footprints:CAPC220145_145N_KEM"
 			(at 133.35 138.43 0)
 			(effects
 				(font
@@ -10182,7 +10182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC220145_88N_KEM"
+		(property "Footprint" "just-footprints:CAPC220145_88N_KEM"
 			(at 236.22 68.58 0)
 			(effects
 				(font
@@ -10384,7 +10384,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC17595_87N_KEM"
+		(property "Footprint" "just-footprints:CAPC17595_87N_KEM"
 			(at 87.63 68.58 0)
 			(effects
 				(font
@@ -10454,7 +10454,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC17795_95N_KEM"
+		(property "Footprint" "just-footprints:CAPC17795_95N_KEM"
 			(at 193.04 52.07 0)
 			(effects
 				(font
@@ -10712,7 +10712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C0805"
+		(property "Footprint" "just-footprints:C0805"
 			(at 132.08 136.83 0)
 			(effects
 				(font
@@ -11409,7 +11409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC17795_95N_KEM"
+		(property "Footprint" "just-footprints:CAPC17795_95N_KEM"
 			(at 40.64 138.43 0)
 			(effects
 				(font
@@ -11479,7 +11479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAP_CNC6_TDK"
+		(property "Footprint" "just-footprints:CAP_CNC6_TDK"
 			(at 58.42 71.12 0)
 			(effects
 				(font
@@ -11549,7 +11549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RESC1608X50N"
+		(property "Footprint" "just-footprints:RESC1608X50N"
 			(at 149.86 168.58 0)
 			(effects
 				(font
@@ -11668,7 +11668,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RES_RCA0805_VIS"
+		(property "Footprint" "just-footprints:RES_RCA0805_VIS"
 			(at 264.16 53.34 0)
 			(effects
 				(font
@@ -11737,7 +11737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RES_V1206_VIS"
+		(property "Footprint" "just-footprints:RES_V1206_VIS"
 			(at 176.53 58.42 0)
 			(effects
 				(font
@@ -12008,7 +12008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "just-footprints:SOT96P240X110-3N"
 			(at 67.64 58.42 0)
 			(effects
 				(font
@@ -12132,7 +12132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC1608X95N"
+		(property "Footprint" "just-footprints:CAPC1608X95N"
 			(at 113.97 53.34 0)
 			(effects
 				(font
@@ -12450,7 +12450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1725656"
+		(property "Footprint" "just-footprints:1725656"
 			(at 212.09 237.16 0)
 			(effects
 				(font
@@ -13200,7 +13200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1725656"
+		(property "Footprint" "just-footprints:1725656"
 			(at 372.415 27.94 0)
 			(effects
 				(font
@@ -13343,7 +13343,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LEDC1608X80N"
+		(property "Footprint" "just-footprints:LEDC1608X80N"
 			(at 252.4 143.51 0)
 			(effects
 				(font
@@ -13482,7 +13482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RC0603N_VIS"
+		(property "Footprint" "just-footprints:RC0603N_VIS"
 			(at 214.63 73.66 0)
 			(effects
 				(font
@@ -13553,7 +13553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C1206"
+		(property "Footprint" "just-footprints:C1206"
 			(at 191.44 116.84 0)
 			(effects
 				(font
@@ -13843,7 +13843,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LEDC1608X80N"
+		(property "Footprint" "just-footprints:LEDC1608X80N"
 			(at 357.81 71.12 0)
 			(effects
 				(font
@@ -13984,7 +13984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SODFL3618X143N"
+		(property "Footprint" "just-footprints:SODFL3618X143N"
 			(at 238.43 57.15 0)
 			(effects
 				(font
@@ -14171,7 +14171,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC2012X145N"
+		(property "Footprint" "just-footprints:CAPC2012X145N"
 			(at 341.3 63.5 0)
 			(effects
 				(font
@@ -14422,7 +14422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC17595_87N_KEM"
+		(property "Footprint" "just-footprints:CAPC17595_87N_KEM"
 			(at 78.74 69.85 0)
 			(effects
 				(font
@@ -14493,7 +14493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SODFL3618X143N"
+		(property "Footprint" "just-footprints:SODFL3618X143N"
 			(at 36.83 138.1 0)
 			(effects
 				(font
@@ -14943,7 +14943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RCS0603_E3"
+		(property "Footprint" "just-footprints:RCS0603_E3"
 			(at 254.94 129.54 0)
 			(effects
 				(font
@@ -15130,7 +15130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C0603"
+		(property "Footprint" "just-footprints:C0603"
 			(at 287.96 60.96 0)
 			(effects
 				(font
@@ -15250,7 +15250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC220145_145N_KEM"
+		(property "Footprint" "just-footprints:CAPC220145_145N_KEM"
 			(at 31.75 138.43 0)
 			(effects
 				(font
@@ -15320,7 +15320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC17795_95N_KEM"
+		(property "Footprint" "just-footprints:CAPC17795_95N_KEM"
 			(at 144.78 138.43 0)
 			(effects
 				(font
@@ -15390,7 +15390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAP_C1206F-RAC-ER_KEM"
+		(property "Footprint" "just-footprints:CAP_C1206F-RAC-ER_KEM"
 			(at 68.58 68.58 0)
 			(effects
 				(font
@@ -15460,7 +15460,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RESC1608X50N"
+		(property "Footprint" "just-footprints:RESC1608X50N"
 			(at 118.44 62.23 0)
 			(effects
 				(font
