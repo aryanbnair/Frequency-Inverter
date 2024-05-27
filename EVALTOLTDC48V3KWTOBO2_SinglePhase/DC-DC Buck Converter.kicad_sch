@@ -9341,7 +9341,7 @@
 	)
 	(text "12V to 5V Linear Regulator"
 		(exclude_from_sim no)
-		(at 16.51 110.49 0)
+		(at 14.478 106.426 0)
 		(effects
 			(font
 				(size 5 5)
@@ -12113,10 +12113,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "65776d38-50c2-486c-a265-10e19e4b23b0")
 		(property "Reference" "C4"
-			(at 13.97 54.6099 90)
+			(at 24.384 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12125,7 +12124,7 @@
 			)
 		)
 		(property "Value" "100nF 50V 0603"
-			(at 13.97 57.1499 90)
+			(at 37.338 57.912 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13326,7 +13325,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a139cafc-8e7e-4529-a54f-d19ada98a187")
-		(property "Reference" "LED?"
+		(property "Reference" "LED2"
 			(at 162.56 147.3199 90)
 			(effects
 				(font
@@ -13452,7 +13451,7 @@
 		(instances
 			(project "EVAL_TOLT_DC48V_3KW"
 				(path "/ab32ac57-1c18-4307-8f91-d2778314d165/9ee2cd02-96d7-461b-b7fb-170453b1d10b"
-					(reference "LED?")
+					(reference "LED2")
 					(unit 1)
 				)
 			)
@@ -14478,7 +14477,7 @@
 		(dnp no)
 		(uuid "c5ad6041-f3ae-4b66-bb0d-ccb4448c4dfa")
 		(property "Reference" "D1"
-			(at 36.83 35.56 0)
+			(at 36.576 43.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
