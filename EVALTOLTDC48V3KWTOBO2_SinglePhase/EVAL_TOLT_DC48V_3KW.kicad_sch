@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ab32ac57-1c18-4307-8f91-d2778314d165")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 104.14 25.4)
+		(size 39.37 22.225)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1b716406-c046-45d0-895f-79ac70a3ecde")
+		(property "Sheetname" "Current Offset"
+			(at 104.14 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Current Offset.kicad_sch"
+			(at 104.14 48.2096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EVAL_TOLT_DC48V_3KW"
+				(path "/ab32ac57-1c18-4307-8f91-d2778314d165"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 72.39)
+		(size 30.48 45.72)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2485f593-b019-439d-890e-42320f426831")
+		(property "Sheetname" "U-Phase"
+			(at 19.05 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "U-Phase.kicad_sch"
+			(at 19.05 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EVAL_TOLT_DC48V_3KW"
+				(path "/ab32ac57-1c18-4307-8f91-d2778314d165"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.452 22.1234)
+		(size 39.116 39.7764)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8b314924-91f0-419d-ab10-67cac4e4e0de")
+		(property "Sheetname" "Current amplifier"
+			(at 60.452 21.4118 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Current amplifier.kicad_sch"
+			(at 60.452 62.4844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EVAL_TOLT_DC48V_3KW"
+				(path "/ab32ac57-1c18-4307-8f91-d2778314d165"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 22.86)
+		(size 30.48 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9ee2cd02-96d7-461b-b7fb-170453b1d10b")
+		(property "Sheetname" "DC-DC Buck Converter"
+			(at 19.05 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DC-DC Buck Converter.kicad_sch"
+			(at 19.05 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EVAL_TOLT_DC48V_3KW"
+				(path "/ab32ac57-1c18-4307-8f91-d2778314d165"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 61.214 73.533)
+		(size 35.687 43.688)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c5d2820f-dc5b-4980-906d-0f8bd6a51e5e")
+		(property "Sheetname" "Power Board Connector"
+			(at 61.214 72.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power Board Connector.kicad_sch"
+			(at 61.214 117.8056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EVAL_TOLT_DC48V_3KW"
+				(path "/ab32ac57-1c18-4307-8f91-d2778314d165"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 76.2)
+		(size 40.64 31.115)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ef0a0738-4921-4f83-aeb3-c8d5023e08d9")
+		(property "Sheetname" "Current Comparator & Latch"
+			(at 105.41 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Current Comparator & Latch.kicad_sch"
+			(at 105.41 107.8996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EVAL_TOLT_DC48V_3KW"
+				(path "/ab32ac57-1c18-4307-8f91-d2778314d165"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
